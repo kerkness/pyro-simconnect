@@ -23,4 +23,4 @@ pip install -e .
 # build an exe
 
 `rename SimConnect.dll to SimConnect.dllc`
-`py -m PyInstaller -F --onefile --name="PyroSimConnect" --windowed pyro-simconnect.py --add-data "Python-SimConnect;SimConnect"`
+`py -m PyInstaller -F --onefile --name="PyroSimConnect" --add-data "SimConnect;SimConnect" --windowed pyro.py`
