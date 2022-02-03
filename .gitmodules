@@ -1,0 +1,3 @@
+[submodule "Python-SimConnect"]
+	path = Python-SimConnect
+	url = https://github.com/odwdinc/Python-SimConnect.git
