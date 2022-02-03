@@ -16,3 +16,6 @@ pip install -e .
 ## Requirements
 
 `pip install PyQt6 --user`
+`pip install flask --user`
+`pip install PySide6 --user`
+`pip install pyinstaller --user`

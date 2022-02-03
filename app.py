@@ -1,12 +1,10 @@
 import sys
 import os
 from flask import Flask, jsonify, render_template, request
-import _thread
 from threading import Thread
 from SimConnect import *
 from PySide6.QtCore import Slot, QSize, Qt, QThreadPool
 from PySide6.QtWidgets import QApplication, QWidget, QPushButton, QMainWindow, QLabel, QLineEdit, QVBoxLayout
-from werkzeug.serving import make_server
 
 
 # Create simconnection
