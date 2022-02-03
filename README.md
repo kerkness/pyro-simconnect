@@ -19,3 +19,8 @@ pip install -e .
 `pip install flask --user`
 `pip install PySide6 --user`
 `pip install pyinstaller --user`
+
+# build an exe
+
+`rename SimConnect.dll to SimConnect.dllc`
+`py -m PyInstaller -F --onefile --name="PyroSimConnect" --windowed pyro-simconnect.py --add-data "Python-SimConnect;SimConnect"`
