@@ -12,3 +12,7 @@ https://github.com/odwdinc/Python-SimConnect
 cd Python-SimConnect
 pip install -e .
 ```
+
+## Requirements
+
+`pip install PyQt6 --user`
