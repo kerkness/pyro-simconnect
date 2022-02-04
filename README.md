@@ -18,6 +18,7 @@ pip install -e .
 `pip install PyQt6 --user`
 `pip install flask --user`
 `pip install PySide6 --user`
+`pip install flask-cors --user`
 `pip install pyinstaller --user`
 
 # build an exe
