@@ -1,3 +1,4 @@
+from engineio.async_drivers import eventlet
 import sys
 import os
 import time
@@ -30,12 +31,12 @@ try:
     aq = AircraftRequests(sm, _time=10)
 
     simvars = SimVars(sm, ae, aq)
+    http_handler = RouteHandler(simvars)
 
     flightsim_is_running = True
 except (ConnectionError):
     pass
 
-http_handler = RouteHandler(simvars)
 
 def pollSimConnect():
     print("start sim polling")
@@ -60,6 +61,12 @@ def pollSimConnect():
 @http.route('/', methods=["GET", "POST"])
 def index():
     return render_template('index.html')
+
+@http.route('/variables', methods=["GET"])
+def get_variables():
+    with open('variables.json') as variables_file:
+        data = json.load(variables_file)
+        return jsonify(data)
 
 @http.route('/data/<dataset_name>', methods=["GET"])
 def output_json_dataset(dataset_name):

@@ -1,0 +1,5014 @@
+[
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "ACCELERATION_BODY_X"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "ACCELERATION_BODY_Y"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "ACCELERATION_BODY_Z"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "ACCELERATION_WORLD_X"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "ACCELERATION_WORLD_Y"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "ACCELERATION_WORLD_Z"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF ACTIVE FREQUENCY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF AVAILABLE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF CARD"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF EXT FREQUENCY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF FREQUENCY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF IDENT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF LATLONALT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF NAME"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF RADIAL"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF RADIAL MAG"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF SIGNAL"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF SOUND"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF STANDBY AVAILABLE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF STANDBY FREQUENCY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ADF VOLUME"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AI ANTISTALL STATE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AI AUTOTRIM ACTIVE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AI AUTOTRIM ACTIVE AGAINST PLAYER"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AI CONTROLS"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AI CURSOR MODE ACTIVE"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "AILERON AVERAGE DEFLECTION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "AILERON LEFT DEFLECTION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "AILERON LEFT DEFLECTION PCT"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "AILERON POSITION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "AILERON RIGHT DEFLECTION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "AILERON RIGHT DEFLECTION PCT"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "AILERON TRIM"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "AILERON TRIM DISABLED"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "AILERON TRIM PCT"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "AIRCRAFT_WIND_X"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "AIRCRAFT_WIND_Y"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "AIRCRAFT_WIND_Z"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "AIRSPEED_BARBER_POLE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "AIRSPEED INDICATED"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "AIRSPEED_MACH"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "AIRSPEED SELECT INDICATED OR TRUE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "AIRSPEED_TRUE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "AIRSPEED TRUE CALIBRATE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "AIRSPEED_TRUE_RAW"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "ALTERNATE STATIC SOURCE OPEN"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ALTERNATOR_BREAKER_PULLED"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ALTERNATOR_CONNECTION_ON"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "AMBIENT_DENSITY"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "AMBIENT IN CLOUD"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "AMBIENT_PRECIP_RATE"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "AMBIENT_PRECIP_STATE"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "AMBIENT_PRESSURE"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "AMBIENT_TEMPERATURE"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "AMBIENT_VISIBILITY"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "AMBIENT_WIND_DIRECTION"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "AMBIENT_WIND_VELOCITY"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "AMBIENT_WIND_X"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "AMBIENT_WIND_Y"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "AMBIENT_WIND_Z"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "ANEMOMETER PCT RPM"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "ANGLE OF ATTACK INDICATOR"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "ANIMATION_DELTA_TIME"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "ANNUNCIATOR SWITCH"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "ANTISKID BRAKES ACTIVE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "APPLY HEAT TO SYSTEMS"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "APU_BLEED_PRESSURE_RECEIVED_BY_ENGINE"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "APU_GENERATOR_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "APU_GENERATOR_SWITCH"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "APU_ON_FIRE_DETECTED"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "APU_PCT_RPM"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "APU_PCT_STARTER"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "APU_SWITCH"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "APU_VOLTS"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "ARTIFICIAL_GROUND_ELEVATION"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "ASSISTANCE LANDING ENABLED"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "ASSISTANCE TAKEOFF ENABLED"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC AIRLINE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC AIRPORT IS TOWERED"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC CLEARED IFR"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC CLEARED LANDING"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC CLEARED TAKEOFF"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC CLEARED TAXI"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC CURRENT WAYPOINT ALTITUDE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC FLIGHTPLAN DIFF ALT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC FLIGHTPLAN DIFF DISTANCE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC FLIGHTPLAN DIFF HEADING"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC FLIGHT NUMBER"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC HEAVY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC ID"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC IFR FP TO REQUEST"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC MODEL"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC ON PARKING SPOT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC_PREVIOUS_WAYPOINT_ALTITUDE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC RUNWAY AIRPORT NAME"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC RUNWAY DISTANCE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC RUNWAY END DISTANCE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC RUNWAY HEADING DEGREES TRUE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC RUNWAY LENGTH"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC RUNWAY RELATIVE POSITION X"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC RUNWAY RELATIVE POSITION Y"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC RUNWAY RELATIVE POSITION Z"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC RUNWAY SELECTED"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC RUNWAY START DISTANCE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC RUNWAY TDPOINT RELATIVE POSITION X"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC RUNWAY TDPOINT RELATIVE POSITION Y"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC RUNWAY TDPOINT RELATIVE POSITION Z"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC RUNWAY WIDTH"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC SUGGESTED MIN RWY LANDING"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC SUGGESTED MIN RWY TAKEOFF"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC TAXIPATH DISTANCE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "ATC TYPE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "ATTITUDE BARS POSITION"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "ATTITUDE CAGE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "ATTITUDE INDICATOR BANK DEGREES"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "ATTITUDE INDICATOR PITCH DEGREES"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "AUDIO PANEL AVAILABLE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "AUDIO PANEL VOLUME"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "AUTOBRAKES ACTIVE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT AIRSPEED ACQUISITION"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT AIRSPEED HOLD"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT AIRSPEED HOLD CURRENT"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT AIRSPEED HOLD VAR"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT AIRSPEED MAX CALCULATED"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT AIRSPEED MIN CALCULATED"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT ALTITUDE ARM"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT ALTITUDE LOCK VAR"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT ALTITUDE MANUALLY TUNABLE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT ALTITUDE SLOT INDEX"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT APPROACH ACTIVE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT APPROACH ARM"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT APPROACH CAPTURED"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT APPROACH HOLD"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT APPROACH IS LOCALIZER"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT ATTITUDE HOLD"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT AVAILABLE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT AVIONICS MANAGED"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT BACKCOURSE HOLD"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT BANK HOLD"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT BANK HOLD REF"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT CRUISE SPEED HOLD"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT DEFAULT PITCH MODE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT DEFAULT ROLL MODE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT DISENGAGED"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT FLIGHT DIRECTOR ACTIVE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT FLIGHT DIRECTOR BANK"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT FLIGHT DIRECTOR BANK EX1"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT FLIGHT DIRECTOR PITCH"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT FLIGHT DIRECTOR PITCH EX1"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT FLIGHT LEVEL CHANGE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT GLIDESLOPE ACTIVE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT GLIDESLOPE ARM"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT GLIDESLOPE HOLD"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT HEADING LOCK"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT HEADING LOCK DIR"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT HEADING MANUALLY TUNABLE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT HEADING SLOT INDEX"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT MACH HOLD"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT MACH HOLD VAR"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT MANAGED INDEX"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT MANAGED SPEED IN MACH"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT MANAGED THROTTLE ACTIVE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT MASTER"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT MAX BANK"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT MAX BANK ID"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT MAX SPEED HOLD"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT NAV1 LOCK"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT NAV SELECTED"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT PITCH HOLD"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT PITCH HOLD REF"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT RPM HOLD"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT RPM HOLD VAR"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT RPM SLOT INDEX"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT SPEED SETTING"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT SPEED SLOT INDEX"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT TAKEOFF POWER ACTIVE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT THROTTLE ARM"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT THROTTLE MAX THRUST"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT VERTICAL HOLD"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT VERTICAL HOLD VAR"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT VS SLOT INDEX"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT WING LEVELER"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "AUTOPILOT YAW DAMPER"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "AUTOTHROTTLE ACTIVE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "AUTO BRAKE SWITCH CB"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "AUTO COORDINATION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "AUX WHEEL ROTATION ANGLE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "AUX WHEEL RPM"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "AVIONICS MASTER SWITCH"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "BAGGAGELOADER_ANGLE_CURRENT"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "BAGGAGELOADER_ANGLE_TARGET"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "BAGGAGELOADER_END_RAMP_Y"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "BAGGAGELOADER_END_RAMP_Z"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "BAGGAGELOADER_PIVOT_Y"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "BAGGAGELOADER_PIVOT_Z"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "BARBER_POLE_MACH"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "BAROMETER_PRESSURE"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BATTERY_BREAKER_PULLED"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BATTERY_CONNECTION_ON"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "BETA_DOT"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "BLAST_SHIELD_POSITION"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BLEED_AIR_APU"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "BLEED AIR ENGINE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "BLEED AIR SOURCE CONTROL"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "BOARDINGRAMP_ELEVATION_CURRENT"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "BOARDINGRAMP_ELEVATION_TARGET"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "BOARDINGRAMP_END_POSITION_Y"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "BOARDINGRAMP_END_POSITION_Z"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "BOARDINGRAMP_ORIENTATION_CURRENT"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "BOARDINGRAMP_ORIENTATION_TARGET"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "BOARDINGRAMP_START_POSITION_Y"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "BOARDINGRAMP_START_POSITION_Z"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "BOMB_AMMO"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "BRAKE DEPENDENT HYDRAULIC PRESSURE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "BRAKE INDICATOR"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "BRAKE LEFT POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "BRAKE LEFT POSITION EX1"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "BRAKE PARKING INDICATOR"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "BRAKE PARKING POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "BRAKE RIGHT POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "BRAKE RIGHT POSITION EX1"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_ADF"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_ALTFLD"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_AUTOPILOT"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_AVNBUS1"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_AVNBUS2"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_AVNFAN"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_FLAP"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_GPS"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_INST"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_INSTLTS"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_LTS_PWR"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_NAVCOM1"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_NAVCOM2"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_NAVCOM3"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_TURNCOORD"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_WARN"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_XPNDR"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BUS_BREAKER_PULLED"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BUS_CONNECTION_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BUS_LOOKUP_INDEX"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "CABIN NO SMOKING ALERT SWITCH"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "CABIN SEATBELTS ALERT SWITCH"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "CABLE_CAUGHT_BY_TAILHOOK"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "CAMERA_ACTION_COCKPIT_VIEW_RESET"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "CAMERA_ACTION_COCKPIT_VIEW_SAVE"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "CAMERA_GAMEPLAY_PITCH_YAW"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "CAMERA_REQUEST_ACTION"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "CAMERA_STATE"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "CAMERA_SUBSTATE"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "CAMERA_VIEW_TYPE_AND_INDEX"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "CAMERA_VIEW_TYPE_AND_INDEX_MAX"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "CANNON_AMMO"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "CANOPY OPEN"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "CARB HEAT AVAILABLE"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "CATAPULT_STROKE_POSITION"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "CATEGORY"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "CATERINGTRUCK_AIRCRAFT_DOOR_CONTACT_OFFSET_Z"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "CATERINGTRUCK_ELEVATION_CURRENT"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "CATERINGTRUCK_ELEVATION_TARGET"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "CATERINGTRUCK_OPENING_CURRENT"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "CATERINGTRUCK_OPENING_TARGET"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "CENTER WHEEL ROTATION ANGLE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "CENTER WHEEL RPM"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "CG_AFT_LIMIT"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "CG_FWD_LIMIT"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "CG_MAX_MACH"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "CG_MIN_MACH"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "CG_PERCENT"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "CG_PERCENT_LATERAL"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "CHASE_CAMERA_HEADLOOK"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "CHASE_CAMERA_MOMENTUM"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "CHASE_CAMERA_SPEED"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "CHASE_CAMERA_ZOOM"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "CHASE_CAMERA_ZOOM_SPEED"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_AUTOPILOT_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_AUTO_BRAKES_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_AUTO_FEATHER_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_AVIONICS_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_BREAKER_PULLED"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_CONNECTION_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_FLAP_MOTOR_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_GEAR_MOTOR_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_GEAR_WARNING_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_GENERAL_PANEL_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_HYDRAULIC_PUMP_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_MARKER_BEACON_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_NAVCOM_ON1"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_NAVCOM_ON2"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "BREAKER_NAVCOM3"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_PITOT_HEAT_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_POWER_SETTING"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_PROP_SYNC_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_STANDBY_VACUUM_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "CIRCUIT_SWITCH_ON"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "COCKPIT_CAMERA_HEADLOOK"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "COCKPIT_CAMERA_HEIGHT"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "COCKPIT_CAMERA_INSTRUMENT_AUTOSELECT"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "COCKPIT_CAMERA_MOMENTUM"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "COCKPIT_CAMERA_SIDE"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "COCKPIT_CAMERA_SPEED"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "COCKPIT_CAMERA_UPPER_POSITION"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "COCKPIT_CAMERA_ZOOM"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "COCKPIT_CAMERA_ZOOM_SPEED"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "COLLECTIVE POSITION"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM1 STORED FREQUENCY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM2 STORED FREQUENCY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM3 STORED FREQUENCY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM ACTIVE FREQUENCY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM_ACTIVE_FREQ_IDENT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM_ACTIVE_FREQ_TYPE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM AVAILABLE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM_LATLONALT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM RECEIVE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM RECEIVE ALL"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM RECIEVE ALL"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM_RECEIVE_EX1"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM SPACING MODE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM STANDBY FREQUENCY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM_STANDBY_FREQ_IDENT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM_STANDBY_FREQ_TYPE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM STATUS"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM TEST"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM TRANSMIT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COM VOLUME"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "CONCORDE NOSE ANGLE"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "CONCORDE VISOR NOSE HANDLE"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "CONCORDE VISOR POSITION PERCENT"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "CONTACT_POINT_COMPRESSION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "CONTACT_POINT_IS_ON_GROUND"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "CONTACT_POINT_IS_SKIDDING"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "CONTACT_POINT_POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "CONTACT_POINT_SKIDDING_FACTOR"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "CONTACT_POINT_WATER_DEPTH"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "CONTRAILS_CONDITIONS_MET"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "CONTROLLABLE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COPILOT TRANSMITTER TYPE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "COPILOT TRANSMITTING"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "CRASH_FLAG"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "CRASH_SEQUENCE"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "DECISION_ALTITUDE_MSL"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "DECISION_HEIGHT"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "DELEGATE CONTROLS TO AI"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "DELTA HEADING RATE"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "DESIGN_CRUISE_ALT"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "DESIGN_SPAWN_ALTITUDE_CRUISE"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "DESIGN_SPAWN_ALTITUDE_DESCENT"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "DESIGN_SPEED_CLIMB"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "DESIGN_SPEED_MIN_ROTATION"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "DESIGN_SPEED_VC"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "DESIGN_SPEED_VS0"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "DESIGN_SPEED_VS1"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "DESIGN_TAKEOFF_SPEED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "DISK BANK ANGLE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "DISK BANK PCT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "DISK CONING PCT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "DISK PITCH ANGLE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "DISK PITCH PCT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "DME SOUND"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "DRONE_CAMERA_FOCUS"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "DRONE_CAMERA_FOCUS_MODE"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "DRONE_CAMERA_FOLLOW"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "DRONE_CAMERA_FOV"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "DRONE_CAMERA_LOCKED"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "DRONE_CAMERA_SPEED_ROTATION"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "DRONE_CAMERA_SPEED_TRAVELLING"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "DROPPABLE OBJECTS COUNT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "DROPPABLE OBJECTS TYPE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "DROPPABLE OBJECTS UI NAME"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "DYNAMIC_PRESSURE"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_AVIONICS_BUS_AMPS"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_AVIONICS_BUS_VOLTAGE"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_BATTERY_BUS_AMPS"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_BATTERY_BUS_VOLTAGE"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_BATTERY_ESTIMATED_CAPACITY_PCT"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_BATTERY_LOAD"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_BATTERY_VOLTAGE"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_GENALT_BUS_AMPS"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_GENALT_BUS_VOLTAGE"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_GENALT_LOAD"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_HOT_BATTERY_BUS_AMPS"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_HOT_BATTERY_BUS_VOLTAGE"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_MAIN_BUS_AMPS"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_MAIN_BUS_VOLTAGE"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_MASTER_BATTERY"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_OLD_CHARGING_AMPS"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "ELECTRICAL_TOTAL_LOAD_AMPS"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "ELEVATOR DEFLECTION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "ELEVATOR DEFLECTION PCT"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "ELEVATOR POSITION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "ELEVATOR TRIM DISABLED"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "ELEVATOR TRIM INDICATOR"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "ELEVATOR TRIM NEUTRAL"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "ELEVATOR TRIM PCT"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "ELEVATOR TRIM POSITION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "ELEVON DEFLECTION"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "ELT ACTIVATED"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "EMPTY_WEIGHT"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "EMPTY_WEIGHT_CROSS_COUPLED_MOI"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "EMPTY_WEIGHT_PITCH_MOI"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "EMPTY_WEIGHT_ROLL_MOI"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "EMPTY_WEIGHT_YAW_MOI"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENGINE CONTROL SELECT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENGINE PRIMER"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENGINE TYPE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG ANTI ICE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG COMBUSTION"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG CYLINDER HEAD TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG ELECTRICAL LOAD"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG EXHAUST GAS TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG FAILED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG FUEL FLOW BUG POSITION"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG FUEL FLOW GPH"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG FUEL FLOW PPH"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG FUEL FLOW PPH SSL"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG FUEL PRESSURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG HYDRAULIC PRESSURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG HYDRAULIC QUANTITY"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG MANIFOLD PRESSURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG MAX RPM"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG N1 RPM"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG N2 RPM"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG OIL PRESSURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG OIL QUANTITY"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG OIL TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG ON FIRE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG PRESSURE RATIO"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG PRESSURE RATIO GES"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG ROTOR RPM"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG RPM ANIMATION PERCENT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG TORQUE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG TORQUE PERCENT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG TRANSMISSION PRESSURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG TRANSMISSION TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG TURBINE TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ENG_VIBRATION"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "ESTIMATED_CRUISE_SPEED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ESTIMATED_FUEL_FLOW"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "EXIT OPEN"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "EXIT POSX"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "EXIT POSY"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "EXIT POSZ"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "EXIT TYPE"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "EXTERNAL_POWER_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "EXTERNAL_POWER_BREAKER_PULLED"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "EXTERNAL_POWER_CONNECTION_ON"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "EXTERNAL_POWER_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "EXTERNAL SYSTEM VALUE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "EYEPOINT_POSITION"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "FIRE_BOTTLE_DISCHARGED"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "FIRE_BOTTLE_SWITCH"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLAP_DAMAGE_BY_SPEED"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLAP_POSITION_SET"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLAP_SPEED_EXCEEDED"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLAPS_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLAPS_EFFECTIVE_HANDLE_INDEX"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLAPS_HANDLE_INDEX"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLAPS_HANDLE_PERCENT"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLAPS_NUM_HANDLE_POSITIONS"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_CANCEL_DESTINATION"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_CANCEL_DESTINATION_DISPLAY"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_COM_AI_LOCKED"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_HAVE_DESTINATION"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_LANDING_SPEED"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_LANDING_SPEED_DISPLAY_MODE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_NEAREST_CATEGORY"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_NEAREST_COUNT"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_NEAREST_METADATA"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_NEAREST_NAME"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_NEAREST_SELECTED"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_RIBBONS_ACTIVE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_SET_AS_DESTINATION"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_STALL_SPEED"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_STALL_SPEED_DISPLAY_MODE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_TAKEOFF_SPEED"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_TAKEOFF_SPEED_DISPLAY_MODE"
+    },
+    {
+        "category": "Aircraft_AutopilotAssistant_Variables",
+        "variable": "FLY_ASSISTANT_TAKEOFF_SPEED_ESTIMATED"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLY_BY_WIRE_ALPHA_PROTECTION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLY_BY_WIRE_ELAC_FAILED"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLY_BY_WIRE_ELAC_SWITCH"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLY_BY_WIRE_FAC_FAILED"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLY_BY_WIRE_FAC_SWITCH"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLY_BY_WIRE_SEC_FAILED"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FLY_BY_WIRE_SEC_SWITCH"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FOLDING_WING_HANDLE_POSITION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FOLDING_WING_LEFT_PERCENT"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "FOLDING_WING_RIGHT_PERCENT"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_ENGINE_PRESSURE"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_JUNCTION_SETTING"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_LINE_FUEL_FLOW"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_LINE_FUEL_LEVEL"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_LINE_FUEL_PRESSURE"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_PUMP_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_PUMP_SWITCH"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_TANK_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_TANK_LEVEL"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_TANK_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_TANK_TOTAL_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_TANK_WEIGHT"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_TRIGGER_STATUS"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_VALVE_OPEN"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUELSYSTEM_VALVE_SWITCH"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "FUELTRUCK_HOSE_DEPLOYED"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "FUELTRUCK_HOSE_END_POSX"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "FUELTRUCK_HOSE_END_POSZ"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "FUELTRUCK_HOSE_END_RELATIVE_HEADING"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_CROSS_FEED"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_DUMP_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_DUMP_SWITCH"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_LEFT_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_LEFT_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_PUMP"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_RIGHT_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_RIGHT_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_SELECTED_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_SELECTED_QUANTITY_PERCENT"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_SELECTED_TRANSFER_MODE"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_CENTER_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_CENTER_LEVEL"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_CENTER_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_CENTER2_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_CENTER2_LEVEL"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_CENTER2_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_CENTER3_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_CENTER3_LEVEL"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_CENTER3_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_EXTERNAL1_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_EXTERNAL1_LEVEL"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_EXTERNAL1_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_EXTERNAL2_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_EXTERNAL2_LEVEL"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_EXTERNAL2_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_LEFT_AUX_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_LEFT_AUX_LEVEL"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_LEFT_AUX_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_LEFT_MAIN_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_LEFT_MAIN_LEVEL"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_LEFT_MAIN_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_LEFT_TIP_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_LEFT_TIP_LEVEL"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_LEFT_TIP_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_RIGHT_AUX_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_RIGHT_AUX_LEVEL"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_RIGHT_AUX_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_RIGHT_MAIN_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_RIGHT_MAIN_LEVEL"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_RIGHT_MAIN_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_RIGHT_TIP_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_RIGHT_TIP_LEVEL"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_RIGHT_TIP_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TANK_SELECTOR"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TOTAL_CAPACITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TOTAL_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TOTAL_QUANTITY_WEIGHT"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_TRANSFER_PUMP_ON"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "FUEL_WEIGHT_PER_GALLON"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "FULL_THROTTLE_THRUST_TO_WEIGHT_RATIO"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "GAMEPLAY_CAMERA_FOCUS"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_ANIMATION_POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_AUX_POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_AUX_STEER_ANGLE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_AUX_STEER_ANGLE_PCT"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_CENTER_POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_CENTER_STEER_ANGLE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_CENTER_STEER_ANGLE_PCT"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_DAMAGE_BY_SPEED"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_EMERGENCY_HANDLE_POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_HANDLE_POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_HYDRAULIC_PRESSURE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_IS_ON_GROUND"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_IS_SKIDDING"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_LEFT_POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_LEFT_STEER_ANGLE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_LEFT_STEER_ANGLE_PCT"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_RIGHT_POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_RIGHT_STEER_ANGLE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_RIGHT_STEER_ANGLE_PCT"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_SPEED_EXCEEDED"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_STEER_ANGLE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_STEER_ANGLE_PCT"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_TAIL_POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_TOTAL_PCT_EXTENDED"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_WARNING"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "GEAR_WATER_DEPTH"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_ANTI_ICE_POSITION"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_COMBUSTION"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_COMBUSTION_EX1"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_COMBUSTION_SOUND_PERCENT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_DAMAGE_PERCENT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_ELAPSED_TIME"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_EXHAUST_GAS_TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_FAILED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_FIRE_DETECTED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_FUEL_PRESSURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_FUEL_PUMP_ON"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_FUEL_PUMP_SWITCH"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_FUEL_PUMP_SWITCH_EX1"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_FUEL_USED_SINCE_START"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_FUEL_VALVE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_GENERATOR_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_GENERATOR_SWITCH"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_HOBBS_ELAPSED_TIME"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_MAX_REACHED_RPM"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_MIXTURE_LEVER_POSITION"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_OIL_LEAKED_PERCENT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_OIL_PRESSURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_OIL_TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_PCT_MAX_RPM"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_PROPELLER_LEVER_POSITION"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_RPM"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_STARTER"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_STARTER_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_THROTTLE_LEVER_POSITION"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "GENERAL_ENG_THROTTLE_MANAGED_MODE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_AIRPORT_ID"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_APPROACH_ID"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_APPROACH_INDEX"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_APPROACH_TYPE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_IS_FINAL"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_IS_MISSED"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_IS_WP_RUNWAY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_MODE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_SEGMENT_TYPE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_TIMEZONE_DEVIATION"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_TRANSITION_ID"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_TRANSITION_INDEX"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_WP_COUNT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_WP_INDEX"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_APPROACH_WP_TYPE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_COURSE_TO_STEER"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_DRIVES_NAV1"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_ETA"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_ETE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_FLIGHTPLAN_TOTAL_DISTANCE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_FLIGHT_PLAN_WP_COUNT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_FLIGHT_PLAN_WP_INDEX"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_GROUND_MAGNETIC_TRACK"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_GROUND_SPEED"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_GROUND_TRUE_HEADING"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_GROUND_TRUE_TRACK"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_IS_ACTIVE_FLIGHT_PLAN"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_IS_ACTIVE_WAY_POINT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_IS_ACTIVE_WP_LOCKED"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_IS_APPROACH_ACTIVE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_IS_APPROACH_LOADED"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_IS_ARRIVED"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_IS_DIRECTTO_FLIGHTPLAN"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_MAGVAR"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_OBS_ACTIVE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_OBS_VALUE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_OVERRIDDEN"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_POSITION_ALT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_POSITION_LAT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_POSITION_LON"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_TARGET_ALTITUDE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_TARGET_DISTANCE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_VERTICAL_ANGLE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_VERTICAL_ANGLE_ERROR"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_VERTICAL_ERROR"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_BEARING"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_CROSS_TRK"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_DESIRED_TRACK"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_DISTANCE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_ETA"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_ETE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_NEXT_ALT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_NEXT_ID"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_NEXT_LAT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_NEXT_LON"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_PREV_ALT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_PREV_ID"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_PREV_LAT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_PREV_LON"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_PREV_VALID"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_TRACK_ANGLE_ERROR"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_TRUE_BEARING"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_TRUE_REQ_HDG"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "GPS_WP_VERTICAL_SPEED"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "GPWS_SYSTEM_ACTIVE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "GPWS_WARNING"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "GROUNDPOWERUNIT_HOSE_DEPLOYED"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "GROUNDPOWERUNIT_HOSE_END_POSX"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "GROUNDPOWERUNIT_HOSE_END_POSZ"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "GROUNDPOWERUNIT_HOSE_END_RELATIVE_HEADING"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "GROUND_ALTITUDE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "GROUND_VELOCITY"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "GUN_AMMO"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "GYRO_DRIFT_ERROR"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "G_FORCE"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "G_LIMITER_SETTING"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "HAS_STALL_PROTECTION"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "HEADING_INDICATOR"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "HOLDBACK_BAR_INSTALLED"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "HSI_BEARING"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "HSI_BEARING_VALID"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "HSI_CDI_NEEDLE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "HSI_CDI_NEEDLE_VALID"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "HSI_DISTANCE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "HSI_GSI_NEEDLE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "HSI_GSI_NEEDLE_VALID"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "HSI_HAS_LOCALIZER"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "HSI_SPEED"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "HSI_STATION_IDENT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "HSI_TF_FLAGS"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "HYDRAULIC_PRESSURE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "HYDRAULIC_RESERVOIR_PERCENT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "HYDRAULIC_SWITCH"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "HYDRAULIC_SYSTEM_INTEGRITY"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "IDLE_ANIMATION_ID"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INCIDENCE_ALPHA"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INCIDENCE_BETA"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "INDICATED_ALTITUDE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "INDICATED_ALTITUDE_CALIBRATED"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "INDICATED_ALTITUDE_EX1"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "INDUCTOR_COMPASS_HEADING_REF"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "INDUCTOR_COMPASS_PERCENT_DEVIATION"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "INNER_MARKER"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "INNER_MARKER_LATLONALT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "INSTRUMENTS_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_BANK"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_HEADING"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_JETWAY_LEFT_BEND"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_JETWAY_LEFT_DEPLOYMENT"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_JETWAY_RIGHT_BEND"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_JETWAY_RIGHT_DEPLOYMENT"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_JETWAY_TOP_HORIZONTAL"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_JETWAY_TOP_VERTICAL"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_GOAL"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_OPEN"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_PITCH"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_POSX"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_POSY"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_POSZ"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "INTERACTIVE_POINT_TYPE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "INTERCOM_MODE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "INTERCOM_SYSTEM_ACTIVE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "IS_ALTITUDE_FREEZE_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "IS_ANY_INTERIOR_LIGHT_ON"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "IS_ATTACHED_TO_SLING"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "IS_ATTITUDE_FREEZE_ON"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "IS_GEAR_FLOATS"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "IS_GEAR_RETRACTABLE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "IS_GEAR_SKIDS"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "IS_GEAR_SKIS"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "IS_GEAR_WHEELS"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "IS_LATITUDE_LONGITUDE_FREEZE_ON"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "IS_SLEW_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "IS_SLEW_ALLOWED"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "IS_TAIL_DRAGGER"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "IS_USER_SIM"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "JETWAY_HOOD_LEFT_BEND"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "JETWAY_HOOD_LEFT_DEPLOYMENT"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "JETWAY_HOOD_RIGHT_BEND"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "JETWAY_HOOD_RIGHT_DEPLOYMENT"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "JETWAY_HOOD_TOP_HORIZONTAL"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "JETWAY_HOOD_TOP_VERTICAL"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "JETWAY_MOVING"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "JETWAY_WHEEL_ORIENTATION_CURRENT"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "JETWAY_WHEEL_ORIENTATION_TARGET"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "JETWAY_WHEEL_SPEED"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "KOHLSMAN_SETTING_HG"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "KOHLSMAN_SETTING_MB"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "KOHLSMAN_SETTING_STD"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LANDING_LIGHT_PBH"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "LAUNCHBAR_HELD_EXTENDED"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "LAUNCHBAR_POSITION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "LAUNCHBAR_SWITCH"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "LEADING_EDGE_FLAPS_LEFT_ANGLE"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "LEADING_EDGE_FLAPS_LEFT_INDEX"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "LEADING_EDGE_FLAPS_LEFT_PERCENT"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "LEADING_EDGE_FLAPS_RIGHT_ANGLE"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "LEADING_EDGE_FLAPS_RIGHT_INDEX"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "LEADING_EDGE_FLAPS_RIGHT_PERCENT"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "LEFT_WHEEL_ROTATION_ANGLE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "LEFT_WHEEL_RPM"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_BACKLIGHT_INTENSITY"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_BEACON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_BEACON_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_BRAKE_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_CABIN"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_CABIN_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_CABIN_POWER_SETTING"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_GLARESHIELD"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_GLARESHIELD_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_GLARESHIELD_POWER_SETTING"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_GLARESHIELD_POWER_SETTING"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_HEADLIGHT_INTENSITY"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_HEAD_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_LANDING"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_LANDING_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_LOGO"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_LOGO_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_NAV"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_NAV_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_ON_STATES"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_PANEL"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_PANEL_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_PANEL_POWER_SETTING"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_PEDESTRAL"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_PEDESTRAL_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_PEDESTRAL_POWER_SETTING"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_POTENTIOMETER"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_RECOGNITION"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_RECOGNITION_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_STATES"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_STROBE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_STROBE_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_TAXI"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_TAXI_ON"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_WING"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "LIGHT_WING_ON"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "LINEAR_CL_ALPHA"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "MACH_MAX_OPERATE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "MAGNETIC_COMPASS"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "MAGVAR"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "MANUAL_FUEL_PUMP_HANDLE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "MANUAL_INSTRUMENT_LIGHTS"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "MARKER_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "MARKER_BEACON_SENSITIVITY_HIGH"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "MARKER_BEACON_STATE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "MARKER_BEACON_TEST_MUTE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "MARKER_SOUND"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "MARSHALLER_AIRCRAFT_DIRECTION_PARKINGSPACE"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "MARSHALLER_AIRCRAFT_DISTANCE"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "MARSHALLER_AIRCRAFT_DISTANCE_DIRECTION_Z_PARKINGSPACE"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "MARSHALLER_AIRCRAFT_DISTANCE_DIRECTION_Z_PARKINGSPACE"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "MARSHALLER_AIRCRAFT_ENGINE_SHUTDOWN"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "MARSHALLER_AIRCRAFT_HEADING_PARKINGSPACE"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "MARSHALLER_AIRCRAFT_PROJECTION_POINT_PARKINGSPACE"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "MARSHALLER_AIRCRAFT_VELOCITY"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "MASTER_IGNITION_SWITCH"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "MAX_GROSS_WEIGHT"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "MAX_G_FORCE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "MAX_RATED_ENGINE_RPM"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "MIDDLE_MARKER"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "MIDDLE_MARKER_LATLONALT"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "MIN_DRAG_VELOCITY"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "MIN_G_FORCE"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "MISSION_SCORE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_ACTIVE_FREQUENCY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_BACK_COURSE_FLAGS"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_CDI"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_CLOSE_DME"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_CLOSE_FREQUENCY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_CLOSE_IDENT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_CLOSE_LOCALIZER"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_CLOSE_NAME"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_CODES"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_DME"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_DMESPEED"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_DME_LATLONALT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_FREQUENCY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_GLIDE_SLOPE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_GLIDE_SLOPE_ERROR"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_GLIDE_SLOPE_LENGTH"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_GSI"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_GS_FLAG"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_GS_LATLONALT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_GS_LLAF64"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_HAS_CLOSE_DM"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_HAS_CLOSE_LOCALIZER"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_HAS_DME"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_HAS_GLIDE_SLOPE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_HAS_LOCALIZER"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_HAS_NAV"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_HAS_TACAN"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_IDENT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_LOCALIZER"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_LOC_AIRPORT_IDENT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_LOC_RUNWAY_DESIGNATOR"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_LOC_RUNWAY_NUMBER"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_MAGVAR"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_NAME"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_OBS"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_RADIAL"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_RADIAL_ERROR"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_RAW_GLIDE_SLOPE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_RELATIVE_BEARING_TO_STATION"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_SIGNAL"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_SOUND"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_STANDBY_FREQUENCY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_TOFROM"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_VOLUME"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_VOR_DISTANCE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_VOR_LATLONALT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "NAV_VOR_LLAF64"
+    },
+    {
+        "category": "Aircraft_Electrics_Variables",
+        "variable": "NEW_ELECTRICAL_SYSTEM"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "NEW_FUEL_SYSTEM"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "NOSEWHEEL_LOCK_ON"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "NUMBER_OF_CATAPULTS"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "NUMBER_OF_ENGINES"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "NUM_FUEL_SELECTORS"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "NUM_SLING_CABLES"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "OIL_AMOUNT"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "ON_ANY_RUNWAY"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "OUTER_MARKER"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "OUTER_MARKER_LATLONALT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "OVERSPEED_WARNING"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PANEL_ANTI_ICE_SWITCH"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PANEL_AUTO_FEATHER_SWITCH"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_ADF"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_AIRSPEED"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_ALTIMETER"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_ATTITUDE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_AVIONICS"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_COMM"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_COMPASS"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_ELECTRICAL"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_ENGINE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_FUEL_INDICATOR"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_HEADING"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_NAV"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_PITOT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_TRANSPONDER"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_TURN_COORDINATOR"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_VACUUM"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PARTIAL_PANEL_VERTICAL_VELOCITY"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PAYLOAD_STATION_COUNT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PAYLOAD_STATION_NAME"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PAYLOAD_STATION_NUM_SIMOBJECTS"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PAYLOAD_STATION_OBJECT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PAYLOAD_STATION_WEIGHT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "PILOT_TRANSMITTER_TYPE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "PILOT_TRANSMITTING"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PITOT_HEAT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PITOT_HEAT_SWITCH"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PITOT_ICE_PCT"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_ALTITUDE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_ALT_ABOVE_GROUND"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_ALT_ABOVE_GROUND_MINUS_CG"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_BANK_DEGREES"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_HEADING_DEGREES_GYRO"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_HEADING_DEGREES_MAGNETIC"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_HEADING_DEGREES_TRUE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_IN_PARKING_STATE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_LATITUDE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_LONGITUDE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_PITCH_DEGREES"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_TOUCHDOWN_BANK_DEGREES"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_TOUCHDOWN_HEADING_DEGREES_MAGNETIC"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_TOUCHDOWN_HEADING_DEGREES_TRUE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_TOUCHDOWN_LATITUDE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_TOUCHDOWN_LONGITUDE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_TOUCHDOWN_NORMAL_VELOCITY"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "PLANE_TOUCHDOWN_PITCH_DEGREES"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PRESSURE_ALTITUDE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PRESSURIZATION_CABIN_ALTITUDE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PRESSURIZATION_CABIN_ALTITUDE_GOAL"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PRESSURIZATION_CABIN_ALTITUDE_RATE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PRESSURIZATION_DUMP_SWITCH"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "PRESSURIZATION_PRESSURE_DIFFERENTIAL"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_AUTO_CRUISE_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_AUTO_FEATHER_ARMED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_BETA"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_BETA_MAX"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_BETA_MIN"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_BETA_MIN_REVERSE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_DEICE_SWITCH"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_FEATHERED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_FEATHERING_INHIBIT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_FEATHER_SWITCH"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_MAX_RPM_PERCENT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_ROTATION_ANGLE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_RPM"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_SYNC_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_SYNC_DELTA_LEVER"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROP_THRUST"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "PROPELLER_ADVANCED_SELECTION"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "PUSHBACK_ANGLE"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "PUSHBACK_ATTACHED"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "PUSHBACK_AVAILABLE"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "PUSHBACK_CONTACTX"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "PUSHBACK_CONTACTY"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "PUSHBACK_CONTACTZ"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "PUSHBACK_STATE"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "PUSHBACK_WAIT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "RADIOS_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "RADIO_HEIGHT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "RAD_INS_SWITCH"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "REALISM"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "REALISM_CRASH_DETECTION"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "REALISM_CRASH_WITH_OTHERS"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_CARBURETOR_TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_CARBURETOR_TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_ALTERNATE_AIR_POSITION"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_ANTIDETONATION_FLOW_RATE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_ANTIDETONATION_TANK_MAX_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_ANTIDETONATION_TANK_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_ANTIDETONATION_TANK_VALVE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_BRAKE_POWER"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_COOLANT_RESERVOIR_PERCENT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_COWL_FLAP_POSITION"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_CYLINDER_HEAD_TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_CYLINDER_HEALTH"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_DETONATING"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_EMERGENCY_BOOST_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_EMERGENCY_BOOST_ELAPSED_TIME"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_ENGINE_MASTER_SWITCH"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_FUEL_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_FUEL_FLOW"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_FUEL_NUMBER_TANKS_USED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_FUEL_TANKS_USED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_FUEL_TANK_SELECTOR"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_GLOW_PLUG_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_LEFT_MAGNETO"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_MANIFOLD_PRESSURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_NITROUS_TANK_MAX_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_NITROUS_TANK_QUANTITY"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_NITROUS_TANK_VALVE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_NUM_CYLINDERS"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_NUM_CYLINDERS_FAILED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_PRIMER"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_RADIATOR_TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_RIGHT_MAGNETO"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_STARTER_TORQUE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_TURBINE_INLET_TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_TURBOCHARGER_FAILED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_ENG_WASTEGATE_POSITION"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "RECIP_MIXTURE_RATIO"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "REJECTED_TAKEOFF_BRAKES_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "RELATIVE_WIND_VELOCITY_BODY_X"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "RELATIVE_WIND_VELOCITY_BODY_Y"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "ROTATION_ACCELERATION_BODY_Z"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "RETRACT_FLOAT_SWITCH"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "RETRACT_LEFT_FLOAT_EXTENDED"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "RETRACT_RIGHT_FLOAT_EXTENDED"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "RIGHT_WHEEL_ROTATION_ANGLE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "RIGHT_WHEEL_RPM"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "ROCKET_AMMO"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "ROTATION_ACCELERATION_BODY_X"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "ROTATION_ACCELERATION_BODY_Y"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "ROTATION_ACCELERATION_BODY_Z"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "ROTATION_VELOCITY_BODY_X"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "ROTATION_VELOCITY_BODY_Y"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "ROTATION_VELOCITY_BODY_Z"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ROTOR_BRAKE_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ROTOR_BRAKE_HANDLE_POS"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ROTOR_CHIP_DETECTED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ROTOR_CLUTCH_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ROTOR_CLUTCH_SWITCH_POS"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ROTOR_GOV_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ROTOR_GOV_SWITCH_POS"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ROTOR_LATERAL_TRIM_PCT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ROTOR_ROTATION_ANGLE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ROTOR_RPM_PCT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "ROTOR_TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "RUDDER_DEFLECTION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "RUDDER_DEFLECTION_PCT"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "RUDDER_PEDAL_INDICATOR"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "RUDDER_PEDAL_POSITION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "RUDDER_POSITION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "RUDDER_TRIM"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "RUDDER_TRIM_DISABLED"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "RUDDER_TRIM_PCT"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "SEA_LEVEL_PRESSURE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "SELECTED_DME"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "SEMIBODY_LOADFACTOR_X"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "SEMIBODY_LOADFACTOR_Y"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "SEMIBODY_LOADFACTOR_YDOT"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "SEMIBODY_LOADFACTOR_Z"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "SHUTOFF_VALVE_PULLED"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "SIGMA_SQRT"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "SIMULATED_RADIUS"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "SIM_DISABLED"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "SIM_ON_GROUND"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "SIM_SHOULD_SET_ON_GROUND"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "SLING_ACTIVE_PAYLOAD_STATION"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "SLING_CABLE_BROKEN"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "SLING_CABLE_EXTENDED_LENGTH"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "SLING_HOIST_PERCENT_DEPLOYED"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "SLING_HOIST_SWITCH"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "SLING_HOOK_IN_PICKUP_MODE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "SLING_OBJECT_ATTACHED"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "SLOPE_TO_ATC_RUNWAY"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "SMART_CAMERA_ACTIVE"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "SMART_CAMERA_INFO"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "SMART_CAMERA_LIST"
+    },
+    {
+        "category": "Camera_Variables",
+        "variable": "SMART_CAMERA_LIST_DESCRIPTION"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "SMOKESYSTEM_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "SMOKE_ENABLE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "SPEAKER_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "SPOILERS_ARMED"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "SPOILER_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "SPOILERS_HANDLE_POSITION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "SPOILERS_LEFT_POSITION"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "SPOILERS_RIGHT_POSITION"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "STALL_ALPHA"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "STALL_HORN_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "STALL_PROTECTION_OFF_LIMIT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "STALL_PROTECTION_ON_GOAL"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "STALL_PROTECTION_ON_LIMIT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "STALL_WARNING"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "STANDARD_ATM_TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "STATIC_CG_TO_GROUND"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "STATIC_PITCH"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "STEER_INPUT_CONTROL"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "STROBES_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "STROBE_FLASH"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "STRUCTURAL_DEICE_SWITCH"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "STRUCTURAL_ICE_PCT"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "STRUC_AIRSPEED_HOLD_PID_CONSTS"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "STRUC_HEADING_HOLD_PID_CONSTS"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "STRUCT_AMBIENT_WIND"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "STRUCT_BODY_ROTATION_ACCELERATION"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "STRUCT_BODY_ROTATION_VELOCITY"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "STRUCT_BODY_VELOCITY"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "STRUCT_DAMAGEVISIBLE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "STRUCT_ENGINE_POSITION"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "STRUCT_EYEPOINT_DYNAMIC_ANGLE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "STRUCT_EYEPOINT_DYNAMIC_OFFSET"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "STRUCT_LATLONALT"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "STRUCT_LATLONALTPBH"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "STRUCT_PBH32"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "STRUCT_REALISM_VARS"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "STRUCT_SURFACE_RELATIVE_VELOCITY"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "STRUCT_WORLDVELOCITY"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "STRUCT_WORLD_ACCELERATION"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "STRUCT_WORLD_ROTATION_VELOCITY"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "SUCTION_PRESSURE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "SURFACE_CONDITION"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "SURFACE_INFO_VALID"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "SURFACE_RELATIVE_GROUND_SPEED"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "SURFACE_TYPE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "SYSTEMS_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "TACAN_ACTIVE_CHANNEL"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "TACAN_ACTIVE_MODE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "TACAN_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "TACAN_STANDBY_CHANNEL"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "TACAN_STANDBY_MODE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "TACAN_STATION_DISTANCE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "TACAN_STATION_LATLONALT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "TACAN_STATION_RADIO"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "TACAN_VOLUME"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "TAILHOOK_HANDLE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "TAILHOOK_POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "TAILWHEEL_LOCK_ON"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "THROTTLE_LOWER_LIMIT"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "TITLE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "TOE_BRAKES_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "TOTAL_AIR_TEMPERATURE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "TOTAL_VELOCITY"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "TOTAL_WEIGHT"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "TOTAL_WEIGHT_CROSS_COUPLED_MOI"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "TOTAL_WEIGHT_PITCH_MOI"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "TOTAL_WEIGHT_ROLL_MOI"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "TOTAL_WEIGHT_YAW_MOI"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "TOTAL_WORLD_VELOCITY"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "TOW_CONNECTION"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "TOW_RELEASE_HANDLE"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "TRACK_IR_ENABLE"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "TRAILING_EDGE_FLAPS_LEFT_ANGLE"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "TRAILING_EDGE_FLAPS_LEFT_INDEX"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "TRAILING_EDGE_FLAPS_LEFT_PERCENT"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "TRAILING_EDGE_FLAPS_RIGHT_ANGLE"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "TRAILING_EDGE_FLAPS_RIGHT_INDEX"
+    },
+    {
+        "category": "Aircraft_Control_Variables",
+        "variable": "TRAILING_EDGE_FLAPS_RIGHT_PERCENT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "TRANSPONDER_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "TRANSPONDER_CODE"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "TRANSPONDER_IDENT"
+    },
+    {
+        "category": "Aircraft_RadioNavigation_Variables",
+        "variable": "TRANSPONDER_STATE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "TRUE_AIRSPEED_SELECTED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_AFTERBURNER"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_AFTERBURNER_PCT_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_AFTERBURNER_STAGE_ACTIVE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_BLEED_AIR"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_COMMANDED_N1"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_CONDITION_LEVER_POSITION"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_CORRECTED_FF"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_CORRECTED_N1"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_CORRECTED_N2"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_FREE_TURBINE_TORQUE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_FUEL_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_FUEL_FLOW_PPH"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_HIGH_IDLE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_IGNITION_SWITCH"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_IGNITION_SWITCH_EX1"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_IS_IGNITING"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_ITT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_JET_THRUST"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_LOW_IDLE"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_MASTER_STARTER_SWITCH"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_MAX_TORQUE_PERCENT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_N1"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_N2"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_NUM_TANKS_USED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_PRESSURE_RATIO"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_PRIMARY_NOZZLE_PERCENT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_REVERSE_NOZZLE_PERCENT"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_TANKS_USED"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_TANK_SELECTOR"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_THROTTLE_COMMANDED_N1"
+    },
+    {
+        "category": "Aircraft_Engine_Variables",
+        "variable": "TURB_ENG_VIBRATION"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "TURN_COORDINATOR_BALL"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "TURN_COORDINATOR_BALL_INV"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "TURN_INDICATOR_RATE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "TURN_INDICATOR_SWITCH"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "TYPICAL_DESCENT_RATE"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "UNLIMITED_FUEL"
+    },
+    {
+        "category": "Aircraft_Fuel_Variables",
+        "variable": "UNUSABLE_FUEL_TOTAL_QUANTITY"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "USER_INPUT_ENABLED"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "VARIOMETER_RATE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "VARIOMETER_SWITCH"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "VELOCITY_BODY_X"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "VELOCITY_BODY_Y"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "VELOCITY_BODY_Z"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "VELOCITY_WORLD_X"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "VELOCITY_WORLD_Y"
+    },
+    {
+        "category": "Miscellaneous_Variables",
+        "variable": "VELOCITY_WORLD_Z"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "VERTICAL_SPEED"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "WAGON_BACK_LINK_LENGTH"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "WAGON_BACK_LINK_ORIENTATION"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "WAGON_BACK_LINK_START_POSZ"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "WAGON_FRONT_LINK_LENGTH"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "WAGON_FRONT_LINK_ORIENTATION"
+    },
+    {
+        "category": "Services_Variables",
+        "variable": "WAGON_FRONT_LINK_START_POSZ"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "WARNING_FUEL"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "WARNING_FUEL_LEFT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "WARNING_FUEL_RIGHT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "WARNING_LOW_HEIGHT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "WARNING_OIL_PRESSURE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "WARNING_VACUUM"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "WARNING_VACUUM_LEFT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "WARNING_VACUUM_RIGHT"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "WARNING_VOLTAGE"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "WATER_BALLAST_VALVE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "WATER_LEFT_RUDDER_EXTENDED"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "WATER_LEFT_RUDDER_STEER_ANGLE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "WATER_LEFT_RUDDER_STEER_ANGLE_PCT"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "WATER_RIGHT_RUDDER_EXTENDED"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "WATER_RIGHT_RUDDER_STEER_ANGLE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "WATER_RIGHT_RUDDER_STEER_ANGLE_PCT"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "WATER_RUDDER_HANDLE_POSITION"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "WHEEL_ROTATION_ANGLE"
+    },
+    {
+        "category": "Aircraft_Brake_Landing_Gear_Variables",
+        "variable": "WHEEL_RPM"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "WINDSHIELD_DEICE_SWITCH"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "WINDSHIELD_RAIN_EFFECT_AVAILABLE"
+    },
+    {
+        "category": "Aircraft_Misc_Variables",
+        "variable": "WINDSHIELD_WIND_VELOCITY"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "WING_AREA"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "WING_FLEX_PCT"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "WING_SPAN"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "WISKEY_COMPASS_INDICATION_DEGREES"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "YAW_STRING_ANGLE"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "YAW_STRING_PCT_EXTENDED"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "YOKE_X_INIDICATOR"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "YOKE_X_POSITION"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "YOKE_X_POSITION_WITH_AP"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "YOKE_Y_INIDICATOR"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "YOKE_Y_POSITION"
+    },
+    {
+        "category": "Aircraft_System_Variables",
+        "variable": "YOKE_Y_POSITION_WITH_AP"
+    },
+    {
+        "category": "Aircraft_FlightModel_Variables",
+        "variable": "ZERO_LIFT_ALPHA"
+    }
+]
