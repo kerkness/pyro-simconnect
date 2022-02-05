@@ -1,15 +1,15 @@
-from flask import session
-from flask_socketio import emit
+# from flask_socketio import emit, send
 
 class SimVars:
 
-    def __init__(self, sm, ae, aq):
+    def __init__(self, sm, ae, aq, sio):
         self.sm = sm
         self.ae = ae
         self.aq = aq
         self.connected = True
         self.simvars = {}
         self.polling = False
+        self.sio = sio
 
     def unsubscribe(self):
         self.simvars = {}
@@ -18,6 +18,10 @@ class SimVars:
         if name in list(self.simvars):
             pass            
         self.simvars[name] = ''
+
+    def remove_variable(self, name):
+        if name in list(self.simvars):
+            del self.simvars[name]
 
     def get_variables(self):
         return list(self.simvars)
@@ -61,11 +65,11 @@ class SimVars:
 
         return status
 
-    def poll_simvars(self):
+    def poll_simvars(self, sid):
         variables = self.get_variables()
-        return self.get_data_map(variables)
+        return self.get_data_map(variables, sid)
 
-    def get_data_map(self, variables_dict):
+    def get_data_map(self, variables_dict, sid):
 
         dataset_map = {}
 
@@ -76,7 +80,7 @@ class SimVars:
                 updates = {}
                 updates[datapoint_name] = value
                 self.update_variable(datapoint_name, value)
-                emit('simVarResponse', updates)
+                self.sio.emit('simVarResponse', updates, room=sid)
 
         return dataset_map
 

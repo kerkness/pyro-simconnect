@@ -28,7 +28,10 @@ Building the exe requires a bunch of dependcies.. see `hidden imports` and `data
 
 
 Build with options (see spec file for all hidden import dependencies)
-`py -m PyInstaller -F --onefile --name="PyroSimConnect" --hidden-import "eventlet.hubs.epolls" --hidden-import "eventlet.hubs.kqueue" --hidden-import "eventlet.hubs.selects" --hidden-import "dns" --hidden-import "dns.asyncbackend" --add-data "SimConnect;SimConnect" --windowed app.py`
+`py -m PyInstaller -F --onefile --name="PyroSimConnect" --hidden-import "eventlet.hubs.epolls" --hidden-import "eventlet.hubs.kqueue" --hidden-import "eventlet.hubs.selects" --hidden-import "dns" --hidden-import "dns.asyncbackend" --add-data "SimConnect;SimConnect" --add-data "variables" --windowed app.py`
 
 Build using Spec
 `py -m PyInstaller PyroSimConnect.spec`
+
+This example is useful
+https://github.com/miguelgrinberg/python-socketio/blob/main/examples/server/wsgi/app.py

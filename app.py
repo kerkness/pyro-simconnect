@@ -1,15 +1,19 @@
-from engineio.async_drivers import eventlet
 import sys
 import os
 import time
 import json
+import socketio
+# import eventlet
+from engineio.async_drivers import eventlet
+import eventlet.wsgi 
+# from gevent import pywsgi
+# from geventwebsocket.handler import WebSocketHandler
 from datetime import datetime
 from flask import Flask, jsonify, render_template, request
 from flask_cors import CORS, cross_origin
-from flask_socketio import SocketIO, emit, send
+# from flask_socketio import SocketIO, emit, send
 from threading import Thread
 from SimConnect import *
-from variables import *
 from PySide6.QtCore import Slot, QSize, Qt, QThreadPool, QUrl
 from PySide6.QtGui import QDesktopServices
 from PySide6.QtWidgets import QApplication, QWidget, QPushButton, QMainWindow, QLabel, QLineEdit, QVBoxLayout
@@ -20,43 +24,36 @@ from routes import RouteHandler
 flightsim_is_running = False
 
 # Create flask http
+sio = socketio.Server(logger=True, cors_allowed_origins="*", async_mode="eventlet")
 http = Flask(__name__)
+http.wsgi_app = socketio.WSGIApp(sio, http.wsgi_app)
 http.config['SECRET_KEY'] = 'cabeza-polo'
 CORS(http)
-socketio = SocketIO(http, cors_allowed_origins="*")
+# socketio = SocketIO(http, cors_allowed_origins="*", engineio_logger=True, async_mode="threading")
 
 try:
     sm = SimConnect()
     ae = AircraftEvents(sm)
     aq = AircraftRequests(sm, _time=10)
 
-    simvars = SimVars(sm, ae, aq)
+    simvars = SimVars(sm, ae, aq, sio)
     http_handler = RouteHandler(simvars)
 
     flightsim_is_running = True
 except (ConnectionError):
     pass
 
-
-def pollSimConnect():
+def pollSimConnect(sid):
     print("start sim polling")
     while not sm.quit:
         simvars.polling = True
-        dataset_map = simvars.poll_simvars()
-        # updates = {}
+        dataset_map = simvars.poll_simvars(sid)
+        eventlet.sleep(0.33)
 
-        # for key, value in dataset_map.items():
-        #     if simvars.has_updated(key, value):
-        #         simvars.update_variable(key, value)
-        #         updates[key] = value                
-
-        # if len(updates) > 0:
-        #     emit('simVarResponse', updates)
-        # else:
-        #     continue
-
-        time.sleep(0.10)
-
+def resource_path(relative_path):
+    if hasattr(sys, '_MEIPASS'):
+        return os.path.join(sys._MEIPASS, relative_path)
+    return os.path.join(os.path.abspath("."), relative_path)
 
 @http.route('/', methods=["GET", "POST"])
 def index():
@@ -64,7 +61,7 @@ def index():
 
 @http.route('/variables', methods=["GET"])
 def get_variables():
-    with open('variables.json') as variables_file:
+    with open(resource_path('variables.json')) as variables_file:
         data = json.load(variables_file)
         return jsonify(data)
 
@@ -82,28 +79,30 @@ def get_datapoint_endpoint(datapoint_name):
 def set_datapoint_endpoint(datapoint_name):
     return http_handler.set_datapoint_endpoint(datapoint_name)
 
-@socketio.on('handshake')
-def handle_message(data):
-    print('received handshake: ', data) 
-    pollSimConnect()
+@sio.event
+def handshake(sid, data):
+    print("got handshake", data, sid)
+    pollSimConnect(sid)
 
-@socketio.on('unsubscribe')
-def handle_message():
-    print('unsubscribe from all vars: ') 
+@sio.event
+def unsubscribe(sid):
     simvars.unsubscribe()
 
-
-@socketio.on('get_simvars')
-def handle_get_simvar(data):    
+@sio.event
+def get_simvars(sid, data):
     for name in data['variables']:
         simvars.poll_variable(name)
 
     if not simvars.polling:
-        pollSimConnect()
+        pollSimConnect(sid)
+
+@sio.event
+def remove_simvar(sid, data):
+    for name in data['variables']:
+        simvars.remove_variable(name)
 
 def startFlaskThread():
-    socketio.run(http)
-
+    eventlet.wsgi.server(eventlet.listen(('', 5000)), http)
 
 class MainWindow(QMainWindow):
     def __init__(self, *args, **kwargs):

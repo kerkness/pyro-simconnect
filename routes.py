@@ -1,6 +1,6 @@
 
-# from flask import jsonify, request
-from variables import *
+from flask import jsonify, request
+# from variables import *
 
 class RouteHandler:
 
